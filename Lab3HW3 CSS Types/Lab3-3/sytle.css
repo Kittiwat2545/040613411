@@ -1,0 +1,15 @@
+
+.yellow-bg{
+    background: #FFC107;
+    text-decoration: underline;
+
+}
+.gray-bg{
+    background-color: gray;
+
+}
+#year{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
